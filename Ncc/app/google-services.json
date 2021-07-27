@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "307317244707",
+    "firebase_url": "https://ncc-bac-default-rtdb.firebaseio.com",
+    "project_id": "ncc-bac",
+    "storage_bucket": "ncc-bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307317244707:android:afd0c4a641826896368296",
+        "android_client_info": {
+          "package_name": "com.example.ncc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307317244707-ev19o6pitucc1aakir67aoqk1kidmvpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyJnOSDYwdhaQipZb4icp8DBg1IMVyidQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307317244707-ev19o6pitucc1aakir67aoqk1kidmvpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

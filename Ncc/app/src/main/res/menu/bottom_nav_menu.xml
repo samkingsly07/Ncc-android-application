@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_about"
+        android:title="Attendance" />
+    <item
+        android:id="@+id/About"
+        android:icon="@drawable/ic_attend"
+        android:title="Profiles" />
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_about"
+        android:title="Enrolment" />
+    <item
+        android:id="@+id/Document"
+        android:icon="@drawable/ic_doc"
+        android:title="Document" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_photo"
+        android:title="Gallery" />
+
+
+</menu>
